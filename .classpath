@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="mp3"/>
+	<classpathentry kind="lib" path="C:/Users/Express/Downloads/Compressed/jme-audio.jar/jme-audio.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Express/Downloads/Compressed/JMF-2.1.1e/lib/customizer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Express/Downloads/Compressed/JMF-2.1.1e/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Express/Downloads/Compressed/JMF-2.1.1e/lib/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Express/Downloads/Compressed/JMF-2.1.1e/lib/multiplayer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
